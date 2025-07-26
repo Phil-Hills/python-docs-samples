@@ -7,4 +7,3 @@ logs/
 build/
 dist/
 *.egg-info/
-# Add any other project-specific large file types (e.g., if it had large test data or binaries)
